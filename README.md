@@ -26,7 +26,7 @@ Welcome to ResumeQA, an innovative project that leverages advanced language mode
 
 ### Getting Started
 
-1. **Installation**: Clone the repository and install the necessary dependencies using the requirements.txt file.
+1. **Installation**: Clone the repository and install the necessary dependencies using the requirements.txt file. Additionally, execute the additional_requirements.py script to ensure all essential components are properly installed and configured.
 
 2. **Data Preparation**: Organize all the resume (pdfs) you have into a directory/folder.
 
