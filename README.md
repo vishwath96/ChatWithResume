@@ -36,7 +36,7 @@ Welcome to ResumeQA, an innovative project that leverages advanced language mode
 
 ### Contact
 
-For any inquiries, feedback, or suggestions regarding ResumeQA, feel free to reach out to us at vishwathvice@gmail.com. I value your input and am committed to continuously improving our project to meet your needs.
+For any inquiries, feedback, or suggestions regarding ResumeQA, feel free to reach out to me at vishwathvice@gmail.com. I value your input and am committed to continuously improving our project to meet your needs.
 
 ### Enjoy Exploring ResumeQA!
 
