@@ -1,0 +1,9 @@
+torch==2.0.1
+transformers==4.31.0
+langchain==0.0.266
+chromadb==0.4.5
+pypdf==3.15.0
+xformers==0.0.20
+sentence_transformers==2.2.2
+InstructorEmbedding==1.0.1
+pdf2image==1.16.3
