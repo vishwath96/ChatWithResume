@@ -28,9 +28,9 @@ Welcome to ResumeQA, an innovative project that leverages advanced language mode
 
 1. **Installation**: Clone the repository and install the necessary dependencies using the requirements.txt file. Additionally, execute the additional_requirements.py script to ensure all essential components are properly installed and configured.
 
-2. **Data Preparation**: Organize all the resume (pdfs) you have into a directory/folder.
+2. **Data Preparation**: Organize all the resume (pdfs) you have into a directory/folder. Additionally, you can add questions that you want to ask in a .txt file and pass it while running the script.
 
-3. **Usage**: Use the provided notebook and functions to interact with the ResumeQA system. Customize the prompts and parameters according to your specific requirements.
+3. **Usage**: Run the provided ChatWithResume.py script along with the directories where you have the Resumes and Sample Questions as arguments.
 
 4. **Explore**: Experiment with different questions and explore the capabilities of ResumeQA to extract valuable insights from resumes effortlessly.
 
